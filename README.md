@@ -20,17 +20,18 @@ Here are some ideas to get you started:
 
 ![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-<br><br>
-🏆Ranking of languages ​​used🏆
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseongmi)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 <p>안녕하세요 반갑습니다!</p>
 <p>저의 이름은 이성미이고 프론트엔드를 공부하고 있습니다!</p>
 <p>현재 미림마이스터고등학교에 재학 중이며 프론트엔드 위주 언어를 중점적으로 공부하고 있습니다! 😊</p>
 
 
+
+<br><br>
+🏆Ranking of languages ​​used🏆
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseongmi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br><br>
