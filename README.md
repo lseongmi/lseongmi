@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=300&section=header&text=welcome!&fontSize=50&fontColor=fff&desc=leeseongmi's%20Github%20Profile&descSize=20&descAlign=70)
 
@@ -49,4 +50,5 @@ seongmi987@gmail.com
 
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+</div>
 
