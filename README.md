@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=300&section=header&text=welcome!&fontSize=50&fontColor=fff&desc=leeseongmi's%20Github%20Profile&descSize=20&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=welcome!&fontSize=50&fontColor=fff&desc=leeseongmi's%20Github%20Profile&descSize=20&descAlign=70)
 <br><br>
 💻Social💻
 
@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 🏆Ranking of languages ​​used🏆
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseongmi)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>안녕하세요 반갑습니다!</p>
+<p>저의 이름은 이성미이고 프론트엔드를 공부하고 있습니다!</p>
+<p>현재 미림마이스터고등학교에 재학 중이며 프론트엔드 위주 언어를 중점적으로 공부하고 있습니다! 😊</p>
+
+
+
 
 <br><br>
 📩gmail📩
