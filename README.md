@@ -1,5 +1,3 @@
-
-
 <!--
 **lseongmi/lseongmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=150&section=header" />이성미's github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseongmi)](https://github.com/anuraghazra/github-readme-stats)
