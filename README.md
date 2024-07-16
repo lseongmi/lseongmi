@@ -22,4 +22,9 @@ Here are some ideas to get you started:
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
+![html](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+![css](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+![java](https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
