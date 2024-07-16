@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=fff)
+<br><br>
+🏆Ranking of languages ​​used🏆
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseongmi)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
