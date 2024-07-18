@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <br><br>
 💻Social💻
 
-![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href = "https://www.instagram.com/seongmi_1830/">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <br><br>
 
 <p>안녕하세요 반갑습니다!</p>
