@@ -26,7 +26,12 @@ Here are some ideas to get you started:
 <p>현재 미림마이스터고등학교에 재학 중이며 프론트엔드 위주 언어를 중점적으로 공부하고 있습니다! 😊</p>
 
 
+<br><br>
+🏆Ranking of languages ​​used🏆
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseongmi&size_weight=0.5&count_weight=0.5)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lseongmi&show_icons=true&theme=radical)
 
 
 
