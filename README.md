@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <br><br>
 🏆Ranking of languages ​​used🏆
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseongmi&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseongmi)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lseongmi&show_icons=true&theme=radical)
 
 
