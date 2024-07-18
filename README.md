@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br><br>
 📊GitHub Statistics📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lseongmi&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lseongmi&show_icons=true&theme=tokyonight)
 
 
 
