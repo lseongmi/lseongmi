@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=welcome!&fontSize=50&fontColor=#D3D3D3sc=leeseongmi's%20Github%20Profile&descSize=20&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=300&section=header&text=welcome!&fontSize=50&fontColor=fffsc=leeseongmi's%20Github%20Profile&descSize=20&descAlign=70)
 <br><br>
 💻Social💻
 
